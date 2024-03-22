@@ -1,12 +1,11 @@
-import logo from './logo.svg';
-import './App.css';
-import Login from './Components/Login/Login';
+import React from 'react';
+import Button1 from './Components/Button/Button1'; // Assuming Button component is in a separate file
 
-function App() {
+const App = () => {
   return (
-    <>
-    <Login/>
-    </>
+    <div>
+      <Button1/>
+    </div>
   );
 }
 
