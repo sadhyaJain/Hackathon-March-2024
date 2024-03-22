@@ -1,11 +1,12 @@
 import logo from './logo.svg';
 import './App.css';
-import Login from './Components/Login/Login';
-import Professor from './Components/Professor/Professor';
+
+import Registration from './Components/Registration/Registration';
+
 
 function App() {
   return (
-   <Professor/>
+   <Registration/>
   );
 }
 
