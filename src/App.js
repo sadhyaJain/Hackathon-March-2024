@@ -1,12 +1,20 @@
-import logo from './logo.svg';
 import './App.css';
+<<<<<<< HEAD
 
+=======
+>>>>>>> bedb67dfba05baf8cbab162dd46cbdaa9587df01
 
-function App() {
+const App = () => {
   return (
+<<<<<<< HEAD
     <>
 
     </>
+=======
+   <>
+   
+   </>
+>>>>>>> bedb67dfba05baf8cbab162dd46cbdaa9587df01
   );
 }
 
