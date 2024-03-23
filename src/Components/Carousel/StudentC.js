@@ -3,7 +3,7 @@ import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';
 
-const ServiceCarousel = () => {
+const StudentC = () => {
   const services = [
     {
       title: 'Courses',
@@ -77,5 +77,5 @@ const ServiceCarousel = () => {
   );
 };
 
-export default ServiceCarousel;
+export default StudentC;
 
