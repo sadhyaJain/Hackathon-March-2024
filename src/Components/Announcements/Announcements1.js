@@ -5,14 +5,14 @@ import './AnnouncementList.css';
 let announcement=[
     {
         title:"Parso is holi",
-        details:"rubbish"
+        details:"Happy Holi"
     },
     {
-        title:"Today we fucked up",
-        details:"fucked up"
+        title:"Today we messed up",
+        details:"messed up"
     },
     {
-        title:"We did good soemthing",
+        title:"We did something good.",
         detail:"lmao noob"
     }
 ]
