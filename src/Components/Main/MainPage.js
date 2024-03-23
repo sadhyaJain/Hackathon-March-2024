@@ -4,7 +4,7 @@ import img from './img.png'
 
 export default function MainPage() {
   return (
-    <div>
+    <div style={{height : '100vh' , padddingBottom : '50px' , paddingTop : '50px'}}>
         <div className="main-content">
         <div className="text-content" style={{paddingTop : '100px'}}>
             <h2 style={{fontSize : '35px' }}>Welcome to Our University</h2>
