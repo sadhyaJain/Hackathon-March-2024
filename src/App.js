@@ -1,11 +1,11 @@
 import './App.css';
+import Login from './Components/Login/Login';
 
-
-const App = () => {
+function App() {
   return (
-   <>
-
-   </>
+    <>
+    <Login/>
+    </>
   );
 
 }
